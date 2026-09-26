@@ -4,4 +4,4 @@ User-agent: GPTBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://in-between-podcast.netlify.app/sitemap.xml
+Sitemap: https://jakey-b.github.io/in-between-podcast/sitemap.xml
